@@ -1,0 +1,366 @@
+body,html 
+{
+    height: 100%;
+    margin: 0%;
+}
+.titlu{
+    text-align: center;
+}
+.poza 
+{
+    position: absolute;
+    left: 476px;
+    top: 67px;
+    width: 949px;
+    height: 592px;
+    top: 180px;
+}
+/* ------------------------------------------- */
+.menu ul 
+{
+list-style-type: none;
+margin: 0;
+overflow: hidden;
+background-color: #333;
+
+padding-left: 140px;
+padding-right: 140px;
+}
+.menu li 
+{
+float: left;
+}
+.menu li a 
+{
+display: block;
+color: white;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+}
+
+@media screen and (max-width: 826px) 
+{
+    .menu ul 
+    {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(22, 18, 18);
+    
+    padding-left: 40px;
+    padding-right: 140px;
+    }
+}
+
+.menu li a:hover 
+{
+background-color: rgb(0, 0, 0);
+}
+/* ------------------------------------------ */
+.descriereCentrare
+{
+    position: absolute;
+    margin-top: 50px;
+    margin-left: 30px;
+    border: 1px solid #000000;
+}
+.butoaneCentrare 
+{
+    position: absolute;
+    left: 476px;
+    top: 67px;
+    width: 949px;
+    height: 592px;
+    top: 180px;
+    border: 1px solid black;
+}
+.obiect
+{
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+#felicitari
+{
+color: red;
+position: absolute;
+margin-left: 30px;
+margin-top: 210px;
+font-size: 30px;
+letter-spacing: 5px;
+}
+
+#reset
+{
+    left: -332px;
+    top: 122px;
+    width: 100px;
+    height: 30px;
+}
+#start
+{
+    left: -438px;
+    top: 122px;
+    width: 100px;
+    height: 30px;
+}
+
+#A0
+{
+    position: absolute;
+    left: 105px;
+    top: 115px;
+    width: 101px;
+    height: 33px;
+}
+#A1
+{
+    position: absolute;
+    left: 1px;
+    top: 210px;
+    width: 104px;
+    height: 44px;
+}
+#A2
+{
+    position: absolute;
+    left: 1px;
+    top: 259px;
+    width: 64px;
+    height: 44px;
+}
+#A3
+{
+    position: absolute;
+    left: 1px;
+    top: 323px;
+    width: 85px;
+    height: 44px;
+}
+#A4
+{
+    position: absolute;
+    left: 1px;
+    top: 378px;
+    width: 120px;
+    height: 44px;
+}
+#A5
+{
+    position: absolute;
+    left: 1px;
+    top: 436px;
+    width: 86px;
+    height: 44px;
+}
+#A6
+{
+    position: absolute;
+    left: 1px;
+    top: 485px;
+    width: 52px;
+    height: 30px;
+}
+#A7
+{
+    position: absolute;
+    left: 1px;
+    top: 516px;
+    width: 108px;
+    height: 30px;
+}
+#A8
+{
+    position: absolute;
+    left: 109px;
+    top: 548px;
+    width: 171px;
+    height: 27px;
+}
+#A9
+{
+    position: absolute;
+    left: 282px;
+    top: 562px;
+    width: 39px;
+    height: 27px;
+}
+#A10
+{
+    position: absolute;
+    left: 323px;
+    top: 530px;
+    width: 120px;
+    height: 27px;
+}
+#A11
+{
+    position: absolute;
+    left: 411px;
+    top: 562px;
+    width: 121px;
+    height: 27px;
+}
+#A12
+{
+    position: absolute;
+    left: 456px;
+    top: 534px;
+    width: 75px;
+    height: 27px;
+}
+#A13
+{
+    position: absolute;
+    left: 499px;
+    top: 500px;
+    width: 58px;
+    height: 27px;
+}
+#A14
+{
+    position: absolute;
+    left: 575px;
+    top: 562px;
+    width: 158px;
+    height: 27px;
+}
+#A15
+{
+    position: absolute;
+    left: 874px;
+    top: 458px;
+    width: 66px;
+    height: 27px;
+}
+#A16
+{
+    position: absolute;
+    left: 852px;
+    top: 256px;
+    width: 88px;
+    height: 27px;
+}
+#A17
+{
+    position: absolute;
+    left: 852px;
+    top: 225px;
+    width: 88px;
+    height: 27px;
+}
+#A18
+{
+    position: absolute;
+    left: 801px;
+    top: 195px;
+    width: 87px;
+    height: 27px;
+}
+#A19
+{
+    position: absolute;
+    left: 801px;
+    top: 167px;
+    width: 87px;
+    height: 27px;
+}
+#A20
+{
+    position: absolute;
+    left: 706px;
+    top: 62px;
+    width: 129px;
+    height: 27px;
+}
+#A21
+{
+    position: absolute;
+    left: 706px;
+    top: 27px;
+    width: 223px;
+    height: 27px;
+}
+#A22
+{
+    position: absolute;
+    left: 617px;
+    top: 9px;
+    width: 71px;
+    height: 27px;
+}
+#A23
+{
+    position: absolute;
+    left: 497px;
+    top: 9px;
+    width: 71px;
+    height: 27px;
+}
+#A24
+{
+    position: absolute;
+    left: 505px;
+    top: 126px;
+    width: 67px;
+    height: 32px;
+}
+
+#A25
+{
+    position: absolute;
+    left: 489px;
+    top: 205px;
+    width: 73px;
+    height: 38px;
+}
+#A26
+{
+    position: absolute;
+    left: 442px;
+    top: 245px;
+    width: 73px;
+    height: 25px;
+}
+#A27
+{
+    position: absolute;
+    left: 417px;
+    top: 219px;
+    width: 64px;
+    height: 21px;
+}
+#A28
+{
+    position: absolute;
+    left: 464px;
+    top: 64px;
+    width: 83px;
+    height: 56px;
+}
+#A29
+{
+    position: absolute;
+    left: 388px;
+    top: 153px;
+    width: 98px;
+    height: 34px;
+}
+#A30
+{
+    position: absolute;
+    left: 420px;
+    top: 9px;
+    width: 71px;
+    height: 27px;
+}
+#A31
+{
+    position: absolute;
+    left: 286px;
+    top: 13px;
+    width: 83px;
+    height: 23px;
+}

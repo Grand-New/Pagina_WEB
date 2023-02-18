@@ -1,0 +1,116 @@
+body,html 
+{
+    height: 100%;
+    margin: 0%;
+}
+footer
+{
+    text-align: center;
+}
+.menu ul 
+{
+list-style-type: none;
+margin-top: 0px;
+overflow: hidden;
+background-color: #333;
+margin-bottom: 0px;
+padding-left: 140px;
+padding-right: 140px;
+}
+.menu li 
+{
+float: left;
+}
+.menu li a 
+{
+display: block;
+color: white;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+}
+@media screen and (max-width: 826px) 
+{
+    .menu ul 
+    {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    
+    padding-left: 40px;
+    padding-right: 140px;
+    }
+}
+.menu li a:hover 
+{
+background-color: #111;
+}
+/* --------------------------------------- */
+.textDescriere
+{
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    letter-spacing: 1px;
+}
+.stangaImg
+{
+    width:483px;
+    height:355px;
+    margin-left:15px;
+    float:right;
+    margin-bottom: 37px;
+}
+.dreaptaImg
+{
+    width:742px;
+    height:571;
+    margin-right:15px;
+    margin-top: 20px;
+}
+.margineCentrareTxt
+{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 65%;
+}
+table, th, td 
+{
+    text-align: center;
+    border:1px solid black;
+    width:60%
+}
+
+.pozeBaterie table 
+{
+    width: 65%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.pozeBaterie img
+{
+    height: 600px;
+}
+
+.PozaPrezentare
+{
+    max-width: 100%;
+    height: auto;
+}
+.centrareTextPOza
+{
+    position: absolute;
+    left: 0;
+    top: 19%;
+    width: 100%;
+    text-align: center;
+}
+.TextVopsitPoza
+{
+    color: rgb(245, 5, 5);
+    padding: 18px;
+    font-size: 50px;
+    letter-spacing: 10px;
+}
